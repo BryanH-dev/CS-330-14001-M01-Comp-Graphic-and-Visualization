@@ -1,0 +1,9 @@
+﻿  SceneManager.cpp
+C:\Users\bryan\OneDrive\Desktop\CS330Content\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(234,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\bryan\OneDrive\Desktop\CS330Content\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(527,12): warning C4101: 'model': unreferenced local variable
+C:\Users\bryan\OneDrive\Desktop\CS330Content\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(523,12): warning C4101: 'scale': unreferenced local variable
+C:\Users\bryan\OneDrive\Desktop\CS330Content\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(525,12): warning C4101: 'rotation2': unreferenced local variable
+C:\Users\bryan\OneDrive\Desktop\CS330Content\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(524,12): warning C4101: 'rotation': unreferenced local variable
+C:\Users\bryan\OneDrive\Desktop\CS330Content\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(526,12): warning C4101: 'translation': unreferenced local variable
+C:\Users\bryan\OneDrive\Desktop\CS330Content\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(665,27): warning C4305: '=': truncation from 'double' to 'float'
+  7-1_FinalProjectMilestones.vcxproj -> C:\Users\bryan\OneDrive\Desktop\CS330Content\CS330Content\Projects\7-1_FinalProjectMilestones\Debug\7-1_FinalProjectMilestones.exe
